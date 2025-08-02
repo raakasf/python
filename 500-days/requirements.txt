@@ -1,0 +1,6 @@
+scipy
+black
+numpy
+torch
+scikit-learn
+tensorflow
